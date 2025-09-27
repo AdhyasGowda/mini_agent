@@ -1,0 +1,5 @@
+id,product_name,sku,price,currency,stock
+1,Acme Lamp,LAMP-100,29.99,USD,120
+2,Acme Chair,CHR-200,79.99,USD,45
+3,Acme Lamp Pack (3),LAMP-100-3,79.99,USD,20
+4,Desk Organizer,ORG-001,9.99,USD,200
