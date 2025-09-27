@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Mini Agentic Pipeline
+<<<<<<< HEAD# Mini Agentic Pipeline
 
 ## Setup
 1. Clone repo
@@ -26,4 +25,4 @@ python mini_agent.py
 =======
 # mini_agent
 A Python-based AI agent that retrieves information from a small knowledge base, decides actions using a Reasoner, optionally queries a CSV tool for prices, and outputs final answers with step-by-step JSON logs.
->>>>>>> 2c179a07f8c88eca0da661c37bf19984becb9c7c
+
